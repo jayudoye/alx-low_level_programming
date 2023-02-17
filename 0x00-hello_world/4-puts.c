@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - The main is void
  *
  * Return: The return is 0
