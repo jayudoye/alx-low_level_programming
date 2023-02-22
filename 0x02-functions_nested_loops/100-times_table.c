@@ -3,6 +3,8 @@
 /**
  * print_times_table -  A function that prints the n times table
  *
+ * @n: Parameter to be checked
+ *
  * Return: Always 0
  */
 
